@@ -16,6 +16,7 @@ public class LevelManager : MonoBehaviour
     //Sluit het spel af
     public void QuitGame()
     {
+        Debug.Log("QUIT");
         Application.Quit();
     }
 }
