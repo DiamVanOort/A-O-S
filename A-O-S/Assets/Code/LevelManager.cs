@@ -7,21 +7,15 @@ using UnityEngine.SceneManagement;
 public class LevelManager : MonoBehaviour
 {
 
-    //laad volgende scene
+    //Load next scene
   public void LoadNextScene()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
-    //Laad vorige scene
+    //Load previous scene
     public void LoadPreviousScene()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
-    }
-
-    //Sluit het spel af
-    public void QuitGame()
-    {
-        Application.Quit();
     }
 }
