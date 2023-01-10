@@ -32,6 +32,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Dia 8.unity
     guid: dcfe00220c024f6479cfdad658a89154
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: a8ebcadd4fd636c449a8a16981a68a21
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ac101f06e00c16742b513bbf9f767732, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: d8f4f87122a786444965ff4692797cf7, type: 2}
