@@ -642,10 +642,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 25
-  m_fontSizeBase: 25
+  m_fontSize: 27
+  m_fontSizeBase: 27
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -711,9 +711,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 1474365142}
   lines:
-  - 'Ik woon op mezelf als een 20 jaar oude MBO student en werk als logistiek medewerker
-    in deze loods. Hier werk ik al een tijdje met een gezellige werksfeer en ik verdien
-    ongeveer 1200 euro per maand. '
+  - Ik woon op mezelf als een 20 jaar oude MBO student en werk als logistiek medewerker
+    in deze loods.
+  - Hier werk ik al een tijdje met een gezellige werksfeer en ik verdien ongeveer
+    1200 euro per maand.
   textspeed: 0.1
 --- !u!1 &1612851337
 GameObject:

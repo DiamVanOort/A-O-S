@@ -710,9 +710,9 @@ MonoBehaviour:
   textComponent: {fileID: 1617210680}
   lines:
   - "In mijn vrije tijd ben ik heel vaak bezig met auto\u2019s. Ik doe ook een MBO
-    opleiding voor automotive op het Alfa College in Groningen. Zelf heb ik ook een
-    eigen project auto waarmee ik bezig ben om hem te modificeren naar mijn wil,
-    namelijk de Volkswagen golf uit 1990.  "
+    opleiding voor automotive op het Alfa College in Groningen."
+  - 'Zelf heb ik ook een eigen project auto waarmee ik bezig ben om hem te modificeren
+    naar mijn wil, namelijk de Volkswagen golf uit 1990. '
   textspeed: 0.1
 --- !u!1 &1612851337
 GameObject:
@@ -904,10 +904,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 24
+  m_fontSizeBase: 24
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0

@@ -702,10 +702,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 23
+  m_fontSizeBase: 23
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -738,7 +738,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: 0, w: 3.157463}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -844,12 +844,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 1163338721}
   lines:
-  - Nu een paar maanden later ben ik uit de schulden gekomen en heb ik mijn auto
-    weer terug gekregen. Mijn auto project is voor nu af naar mijn smaak en ik rijd
-    er tegenwoordig mee naar auto evenementen. Alles gaat goed nu in mijn leven en
-    ik had zonder de krediet bank waarschijnlijk nu op straat geleefd.
-  - ' Dus mijn advies is, kijk goed uit met hoe je betaalt en hoeveel je overhoud.
-    Als je toch in de schulden komt raad ik je aan om naar de kredietbank te gaan
+  - Nu een paar maanden later ben ik uit de schulden en heb ik mijn auto weer terug.
+    Mijn auto project is voor nu af naar mijn smaak en ik rijd er tegenwoordig mee
+    naar auto evenementen.
+  - Alles gaat goed nu in mijn leven en ik had zonder de krediet bank waarschijnlijk
+    nu op straat geleefd. Dus mijn advies is, kijk goed uit met hoe je betaalt en
+    hoeveel je overhoud.
+  - 'Als je toch in de schulden komt raad ik je aan om naar de kredietbank te gaan
     en samen overleggen wat de beste oplossing is. '
   textspeed: 0.1
 --- !u!1 &1612851337

@@ -647,10 +647,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 24
+  m_fontSizeBase: 24
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -717,9 +717,10 @@ MonoBehaviour:
   textComponent: {fileID: 1430669811}
   lines:
   - Vandaag heb ik ook een turbo gekocht van 1600 euro en heb besloten om achteraf
-    te betalen. De achteraf betaalfunctie die ik gebruik heet klerne. Bij elke maand
-    dat je niet betaald komt er 5% rente boven op het bedrag die nog betaald moet
-    worden. Ik heb zelf ook al vaker andere onderdelen gekocht met achteraf betalen.
+    te betalen. De achteraf betaalfunctie die ik gebruik heet klerne
+  - 'Bij elke maand dat je niet betaald komt er 5% rente boven op het bedrag die
+    nog betaald moet worden. Ik heb zelf ook al vaker andere onderdelen gekocht met
+    achteraf betalen.  '
   textspeed: 0.1
 --- !u!1 &1612851337
 GameObject:

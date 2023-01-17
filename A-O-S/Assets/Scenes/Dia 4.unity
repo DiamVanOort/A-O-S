@@ -219,10 +219,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 25
+  m_fontSizeBase: 25
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -844,10 +844,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 375065495}
   lines:
-  - 'Ik heb een paar maanden niet omgekeken naar de rekeningen van klerne, het bedrag
-    die ik nu moet betalen is ongeveer rond de 4300 euro. Ik heb nu niet genoeg geld
-    om rond te komen. Ik heb uiteindelijk nooit gereageerd op de briefen die ik uit
-    eindelijk kreeg. '
+  - Ik heb een paar maanden niet omgekeken naar de rekeningen van klerne, het bedrag
+    die ik nu moet betalen is ongeveer rond de 4300 euro.
+  - Ik heb nu niet genoeg geld om rond te komen. Ik heb uiteindelijk nooit gereageerd
+    op de briefen die ik uit eindelijk kreeg.
   textspeed: 0.1
 --- !u!1 &1612851337
 GameObject:

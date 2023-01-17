@@ -709,9 +709,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 2069659272}
   lines:
-  - Na 2 maanden niet te reageren op de brieven, en daarom dus niet betaal. Komt
-    er een deurwaarder langs met het bericht dat er nog rekeningen open staan en
-    deze moet betalen binnen 3 maanden.
+  - Na 2 maanden niet te reageren op de brieven, en daarom dus niet betaal.
+  - 'Komt er een deurwaarder langs met het bericht dat er nog rekeningen open staan
+    en deze moet betalen binnen 3 maanden. '
   textspeed: 0.1
 --- !u!1 &1612851337
 GameObject:
@@ -908,10 +908,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 25
+  m_fontSizeBase: 25
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
