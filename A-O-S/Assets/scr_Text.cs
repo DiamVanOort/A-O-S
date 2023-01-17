@@ -60,9 +60,5 @@ public class scr_Text : MonoBehaviour
             textComponent.text = string.Empty;
             StartCoroutine(TypeLine());
         }
-        else
-        {
-            gameObject.SetActive(false);
-        }
     }
 }
