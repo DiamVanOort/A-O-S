@@ -11,27 +11,27 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Dia 1.unity
     guid: c5828a44385814c4bb63e05671f2ccbe
-  - enabled: 1
-    path: Assets/Scenes/Dia 2.unity
-    guid: cf51669812414584bb31b8b67dc664dd
-  - enabled: 1
-    path: Assets/Scenes/Dia 3.unity
-    guid: d9d488adfbf824d4ea4667292f2c5e22
-  - enabled: 1
-    path: Assets/Scenes/Dia 4.unity
-    guid: 448a57d85605d6341b29d9752c136b0e
-  - enabled: 1
-    path: Assets/Scenes/Dia 5.unity
-    guid: beeac9f55872088428dbf11a614098f9
-  - enabled: 1
-    path: Assets/Scenes/Dia 6.unity
-    guid: f2d7ba1c9b00e1e46b9c7f8123cd6bdd
-  - enabled: 1
-    path: Assets/Scenes/Dia 7.unity
-    guid: 3b9d073b345d8d94d84791d158891460
-  - enabled: 1
-    path: Assets/Scenes/Dia 8.unity
-    guid: dcfe00220c024f6479cfdad658a89154
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Credits.unity
     guid: a8ebcadd4fd636c449a8a16981a68a21
